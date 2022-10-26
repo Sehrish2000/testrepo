@@ -14,12 +14,10 @@ waking up, and moving as fast as he could and he won the race.
 Well! Interesting end to the story
 Sehrish made changes
 
+
 I am not happy 
 But is it right?? the Authpor asked himself
-<<<<<<< HEAD
 i had enough
-=======
-
 we are tring to make changes
+changes have been made successfully
 
->>>>>>> 556ea5f55506580f3c61624de352a11fe5662ced
